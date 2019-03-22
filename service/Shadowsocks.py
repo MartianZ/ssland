@@ -20,7 +20,7 @@ config = {
     "config-file": "/etc/shadowsocks.json",
     "manager-address": "/var/run/shadowsocks-manager.sock",
     "statistic_interval": 7200,
-    "port-range": (6789, 45678),  # used to generate new account
+    "port-range": (36789, 45678),  # used to generate new account
 
     # The infos that display on website. 
     # 1. leave them empty and SSLand will read the config file.
