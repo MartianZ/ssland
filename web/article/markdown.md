@@ -1,4 +1,4 @@
-set title = Markdown Example
+set title = Software
 set login_required
 
 [TOC]
