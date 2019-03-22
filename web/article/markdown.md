@@ -1,31 +1,28 @@
 set title = Markdown Example
+set login_required
 
 [TOC]
 
-## Hello World
+## Windows
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius inventore voluptatibus ipsam molestias iure molestiae dolore labore dolorem, tenetur, quidem eaque dolor quae magni minima odit blanditiis obcaecati ipsum modi.
+[Shadowsocks (C#)](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-1. Cnsectetur adipisicing elit. 
-2. Consequuntur corrupti ullam quod repellendus odit. 
-3. Ullam temporibus, repudiandae voluptatem architect.
+Please **DO NOT** use any third-party software (including SSR) to avoid information disclosure!
 
-### Test Para
+## Android
 
-> Avoluptates minima, et laudantium ea adipisci reiciendis blanditiis voluptas earum pariatur.
-> 
->   -- *Rtione, fuga beatae neque veniam reiciendis dolorem.*
+[Shadowsocks Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
-Fugiat laborum explicabo suscipit asperiores soluta odit, cupiditate quis, autem aliquam nemo. Dolor sit amet.
+Please **DO NOT** use any third-party APK (including SSR) to avoid information disclosure!
 
-### Another Part of Test
+## OS X
 
-Aconsectetur adipisicing elit. Aius temporibus dolorum iste voluptatum quod architecto dolor facere veniam.
+[Shadowsocks-X NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
-Laborum perferendis quam quisquam animi dolor est odio excepturi nemo cum dolorum nisi quia incidunt
+## iOS
 
-```
-int main(void) {
-    return 0;
-}
-```
+ShadowProxy
+
+## Linux
+
+...
